@@ -1,2 +1,2 @@
 # hello-world
-this an application that says hello
+this an application that says hello & hi & hey
